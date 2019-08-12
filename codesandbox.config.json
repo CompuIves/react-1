@@ -1,3 +1,4 @@
 {
-  "packages": ["packages/react", "packages/react-dom"]
+  "packages": ["packages/react", "packages/react-dom"],
+  "buildCommand": "build react/index,react-dom/index"
 }
